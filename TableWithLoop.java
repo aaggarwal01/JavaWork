@@ -13,7 +13,6 @@ public class TableWithLoop {
 
 //		for (int b = 1; b <= 10; b++) {
 //			System.out.println(a + "x" + b + "=" + a * b);
-//
 //		}
 		int b=1;
 		while(b<=10) {
